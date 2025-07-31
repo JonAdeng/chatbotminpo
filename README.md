@@ -1,6 +1,6 @@
 <img width="1920" height="982" alt="Antarmuka Chatbot Assistant MinPo" src="https://github.com/user-attachments/assets/4b18d120-9d12-4a2c-8bb5-6f13968d28d9" /># Chatbot Assistant Minpo
 
-![Chatbot Assistant Minpo Screenshot](https://raw.githubusercontent.com/username/repo-name/main/path/to/screenshot.png) Chatbot Assistant Minpo adalah asisten virtual interaktif yang dirancang untuk memberikan informasi dan melayani pertanyaan seputar Dinas Komunikasi dan Informatika (Kominfo) Kabupaten Temanggung, serta layanan-layanan yang tersedia di Mal Pelayanan Publik (MPP) Kabupaten Temanggung. Aplikasi ini bertujuan untuk mempermudah masyarakat dalam mengakses informasi dan mengajukan pertanyaan terkait layanan pemerintahan daerah.
+Chatbot Assistant Minpo adalah asisten virtual interaktif yang dirancang untuk memberikan informasi dan melayani pertanyaan seputar Dinas Komunikasi dan Informatika (Kominfo) Kabupaten Temanggung, serta layanan-layanan yang tersedia di Mal Pelayanan Publik (MPP) Kabupaten Temanggung. Aplikasi ini bertujuan untuk mempermudah masyarakat dalam mengakses informasi dan mengajukan pertanyaan terkait layanan pemerintahan daerah.
 
 ## Fitur Utama
 
