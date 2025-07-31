@@ -1,7 +1,4 @@
-Tentu, berikut adalah draf isi untuk file `README.md` Anda di GitHub, disesuaikan dengan struktur proyek dan fungsi aplikasi Anda:
-
-```markdown
-# Chatbot Assistant Minpo
+<img width="1920" height="982" alt="Antarmuka Chatbot Assistant MinPo" src="https://github.com/user-attachments/assets/4b18d120-9d12-4a2c-8bb5-6f13968d28d9" /># Chatbot Assistant Minpo
 
 ![Chatbot Assistant Minpo Screenshot](https://raw.githubusercontent.com/username/repo-name/main/path/to/screenshot.png) Chatbot Assistant Minpo adalah asisten virtual interaktif yang dirancang untuk memberikan informasi dan melayani pertanyaan seputar Dinas Komunikasi dan Informatika (Kominfo) Kabupaten Temanggung, serta layanan-layanan yang tersedia di Mal Pelayanan Publik (MPP) Kabupaten Temanggung. Aplikasi ini bertujuan untuk mempermudah masyarakat dalam mengakses informasi dan mengajukan pertanyaan terkait layanan pemerintahan daerah.
 
@@ -38,7 +35,6 @@ Tentu, berikut adalah draf isi untuk file `README.md` Anda di GitHub, disesuaika
 ## Struktur Proyek
 
 ```
-
 ChatbotMysql/
 ├── .venv/                      \# Lingkungan virtual (diabaikan oleh Git)
 ├── static/
@@ -51,8 +47,7 @@ ChatbotMysql/
 ├── instruksi.txt               \# Instruksi atau persona untuk chatbot
 ├── requirements.txt            \# Daftar dependensi Python
 └── README.md                   \# File ini
-
-````
+```
 
 ## Persyaratan Sistem
 
@@ -123,6 +118,3 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di lingkungan lokal
 
 8.  **Akses Frontend**:
     Buka browser Anda dan navigasikan ke `http://127.0.0.1:5000`.
-
-
-````
